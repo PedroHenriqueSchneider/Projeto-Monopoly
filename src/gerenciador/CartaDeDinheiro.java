@@ -1,5 +1,7 @@
 package gerenciador;
-
+/*
+* @author: Gustavo Gonçalves de Souza Geraldelli
+*/
 public class CartaDeDinheiro extends Carta {
     private int tipo; // 1 para adiçao e -1 para remoçao
     private int qtd; // valor para adicionar/remover

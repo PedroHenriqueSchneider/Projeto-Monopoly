@@ -20,7 +20,7 @@ public class Banco {
     if (!j1.remSaldo(valor)) { // Jogador 1 entrou em falencia devido a outro jogador.
       j2.addSaldo(j1.getSaldo()); // Jogador 2 recebe todo seu saldo.
       j1.remSaldo(j1.getSaldo()); // Saldo do jogador é zerado.
-
+      
       // j1 tem que passar propriedades para j2
     } else {
       j2.addSaldo(valor); // Senão, recebe o valor esperado.

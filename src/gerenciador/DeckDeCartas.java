@@ -1,7 +1,9 @@
 package gerenciador;
 
 import java.util.Random;
-
+/*
+* @author: Pedro Henrique Bianco Schneider
+*/
 public class DeckDeCartas {
     private final Carta[] cartas;
     private final String tipo;

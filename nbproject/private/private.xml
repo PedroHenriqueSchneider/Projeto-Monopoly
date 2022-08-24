@@ -5,18 +5,18 @@
         <group>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/CartaDeMovimento.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/NomeDoEspaco.java</file>
-            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Jogador.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Dado.java</file>
-            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/CartaVaParaCadeia.java</file>
-            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/CartaDeDinheiro.java</file>
-            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Cadeia.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Jogador.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Banco.java</file>
-            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/DeckDeCartas.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/ImpostoDeRenda.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/GrupoDoLote.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Espaco.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Lote.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Tabuleiro.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Gerenciador.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Propriedade.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/EstacaoDeMetro.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/Carta.java</file>
-            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/EnumCarta.java</file>
             <file>file:/C:/Users/pedro/Documents/NetBeansProjects/Monopoly/src/gerenciador/EspacoDeCarta.java</file>
         </group>
     </open-files>

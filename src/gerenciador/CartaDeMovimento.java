@@ -1,5 +1,7 @@
 package gerenciador;
-
+/*
+* @author: Gustavo Gonçalves de Souza Geraldelli
+*/
 public class CartaDeMovimento extends Carta {
     private int tipo; // 1 para frente, 0 para lugar especifico e -1 para tras
 

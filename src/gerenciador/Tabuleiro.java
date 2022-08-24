@@ -1,5 +1,7 @@
 package gerenciador;
-
+/*
+* @author: Paulo Cesar dos Anjos
+*/
 public class Tabuleiro {
     public Espaco[] espacos;
     private GrupoDoLote[] gruposLotes;

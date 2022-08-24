@@ -11,7 +11,9 @@ public class Jogador {
     // Variaveis auxiliares
 
     private int estacoes; // guarda quantas estacoes o jogador possui
-
+    /*
+    * @author: Pedro Henrique Candido de Sousa
+    */
     public Jogador(String nome, Tabuleiro t) {
         this.nome = nome;
         this.estaPreso = false;
