@@ -5,8 +5,11 @@ import javax.swing.text.html.HTML;
 public class Gerenciador {
 
     /**
-     * @param args the command line arguments
-     */
+    * @author: Gustavo Gonçalves de Souza Geraldelli
+    *          Paulo Cesar dos Anjos
+    *          Pedro Henrique Bianco Schneider
+    *          Pedro Henrique Candido de Sousa
+    */         
     public static void main(String[] args) {
 
         // Teste da classe de dados
