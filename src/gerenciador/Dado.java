@@ -5,8 +5,13 @@ import java.util.Random;
 * @author: Pedro Henrique Bianco Schneider
 */
 public class Dado {
-    public int rolar(){
+    private int valorDado;
+    public void rolar(){
         Random r = new Random();
-        return r.nextInt(6) + 1;
+        this.valorDado = r.nextInt(6) + 1;
     }
+    public int getValorDado(){
+        return this.valorDado;
+    }
+    
 }

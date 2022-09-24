@@ -3,8 +3,8 @@ package gerenciador;
 * @author: Gustavo Gonçalves de Souza Geraldelli
 */
 public class CartaDeDinheiro extends Carta {
-    private int tipo; // 1 para adiçao e -1 para remoçao
-    private int qtd; // valor para adicionar/remover
+    private final int tipo; // 1 para adiçao e -1 para remoçao
+    private final int qtd; // valor para adicionar/remover
 
     public CartaDeDinheiro(int tipo, int qtd, String descricao, int dinheiro) {
         super(descricao, dinheiro);

@@ -15,9 +15,12 @@ public class Gerenciador {
         // Teste da classe de dados
         Dado d1 = new Dado();
         Dado d2 = new Dado();
-        for (int i = 0; i < 8; i++)
-            System.out.println(d1.rolar() + " " + d2.rolar());
-        // Fim teste da classe Dados.
+        for (int i = 0; i < 8; i++){
+            d1.rolar();
+            d2.rolar();
+            System.out.println(d1.getValorDado() + " " + d2.getValorDado());
+        }   
+            // Fim teste da classe Dados.
         // Teste da classe decks de cartas e cartas
         DeckDeCartas cofre = new DeckDeCartas("Cofre");
             

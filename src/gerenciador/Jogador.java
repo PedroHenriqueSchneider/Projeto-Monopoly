@@ -43,15 +43,17 @@ public class Jogador {
     *  Retorna a soma dos dois dados.
     */
     public int lancarDados(Dado d1, Dado d2) {
-        int dado1 = d1.rolar();
-        int dado2 = d2.rolar();
+        Dado dado1 = new Dado();
+        dado1.rolar();
+        Dado dado2 = new Dado();
+        dado2.rolar(); 
 
-        if (dado1 == dado2)
+        if (dado1.getValorDado() == dado2.getValorDado())
             this.dadoDuplas++;
         else
             this.dadoDuplas = 0;
 
-        return dado1 + dado2;
+        return dado1.getValorDado() + dado2.getValorDado();
     }
 
     //Retorna verdadeiro caso o jogador tenha rolado 3 vezes os dados iguais.

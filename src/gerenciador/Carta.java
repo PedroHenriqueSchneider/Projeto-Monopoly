@@ -2,7 +2,7 @@ package gerenciador;
 /*
 * @author: Gustavo Gonçalves de Souza Geraldelli
 */
-public class Carta {
+public abstract class Carta {
     protected String descricao;
     protected int tipoCarta; // para saber o tipo de carta, 0 = VaParaCadeia, 1 = Movimento, 2 = Dinheiro
     
@@ -19,12 +19,9 @@ public class Carta {
         return this.tipoCarta;
     }
     
-    public int getQtd(){
-        return 999; // valores que não são válidos
-    }
+    public abstract int getQtd(); // valores que não são válidos
+ 
     
-    public int getTipo(){
-        return 999; // valores que não são válidos
-    }
+    public abstract int getTipo();// valores que não são válidos
     
 }
